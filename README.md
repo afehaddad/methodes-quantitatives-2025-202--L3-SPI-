@@ -23,5 +23,4 @@ quantitatives* :
 - **Session 2** : 100% oral.  
 
 ## Contacts
-- Responsable pédagogique : Yves de Curraize 
-
+- Gestionnaire de scolarité : licences.iep@u-pec.fr
