@@ -1,0 +1,5 @@
+
+# Éviter doublons et fichiers temporaires
+*.pdf.pdf
+* (1).pdf
+.DS_Store
