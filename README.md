@@ -23,7 +23,7 @@ Ce dépôt rassemble l’ensemble des documents liés au cours *Méthodes quanti
 
 - **Slack du cours**  
   - Rejoindre le workspace : [Lien d’invitation](https://join.slack.com/t/iepfontainebleauupec/shared_invite/zt-3dwvisgmu-1B5zCgRoe43aGvpCw0tsOg)  
-  - Accéder directement au canal du cours : [Canal Méthodes quantitatives](https://iepfontainebleauupec.slack.com/archives/C09G9JJKGAJ)  
+  - Accéder directement au canal du cours : [Canal méthodes quantitatives](https://iepfontainebleauupec.slack.com/archives/C09G9JJKGAJ)  
 
 Slack est l’espace privilégié pour poser vos questions, suivre les annonces et échanger autour du cours.  
 
