@@ -7,6 +7,23 @@
 
 ---
 
+# Syllabus — Méthodes quantitatives (L3 SPI / LAS, S5, 2025–2026)
+
+| Séance | But | Pratique (Excel) | Exemple |
+|--------|-----|------------------|---------|
+| **1 — Qu’est-ce qu’une donnée ?** | Comprendre que les données ne tombent pas du ciel. | Ouvrir un fichier CSV, observer lignes/colonnes. | Petit sondage fictif (habitudes alimentaires). |
+| **2 — Mesurer un fait social** | Transformer une idée en variable mesurable. | Créer une variable « satisfaction » (1–5). | Durkheim, *Le Suicide*. |
+| **3 — Classer et recoder** | Simplifier l’information pour l’analyse. | Regrouper professions en 3 catégories. | Catégories sociales (Bourdieu/Weber). |
+| **4 — Décrire ses données** | Découvrir les statistiques descriptives de base. | Moyenne, médiane, min, max. | Âge moyen selon le sexe. |
+| **5 — Représenter les données** | Utiliser des graphiques pour visualiser les distributions. | Histogramme, camembert, barres. | Répartition des préférences politiques. |
+| **6 — Construire un questionnaire** | Comprendre les bases d’un sondage. | Saisir/coder un mini-questionnaire. | Sondage raté *Literary Digest* (1936). |
+| **7 — Lire une base existante** | Lire un dictionnaire de variables, repérer problèmes. | Explorer une enquête (20 var., 200 obs.). | European Social Survey (ESS). |
+| **8 — Tableaux croisés** | Analyser la relation entre deux variables. | Tableau croisé dynamique (sexe × opinion). | Part des hommes/femmes favorables à une mesure. |
+| **9 — Tester une hypothèse** | Comprendre la logique d’un test statistique. | Réaliser un test du Chi². | Opinion politique × tranche d’âge. |
+| **10 — Éthique et transparence** | Réfléchir aux responsabilités liées aux données. | Discussion autour d’un fichier sensible. | Données personnelles sur internet. |
+
+---
+
 ## Contenu du dépôt
 
 Ce dépôt rassemble l’ensemble des documents liés au cours *Méthodes quantitatives* :  
@@ -18,6 +35,8 @@ Ce dépôt rassemble l’ensemble des documents liés au cours *Méthodes quanti
 - [Documents administratifs](./administratif/)  
 
 ---
+
+
 
 ## Communication
 
