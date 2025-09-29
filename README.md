@@ -5,9 +5,12 @@
 **Année académique :** 2025–2026  
 **Semestre :** S5  
 
+
 ---
 
 # Syllabus — Méthodes quantitatives (L3 SPI / LAS, S5, 2025–2026)
+
+Ce cours constitue une initiation aux méthodes quantitatives en sciences sociales, destinée à familiariser les étudiants avec la construction, l’exploitation et l’interprétation des données avec le langage R. L’objectif est de comprendre comment une donnée est  produite, catégorisée et mobilisée dans une démarche de recherche. Les séances  articulent systématiquement un enjeu théorique et une étude de cas pratique, afin  de montrer comment les outils statistiques participent à la formulation et à la  vérification d’hypothèses empiriques. L’accent est mis sur la capacité à décrire  des données, à identifier des relations simples, à tester des hypothèses et à  réfléchir aux conditions de validité et d’éthique de l’analyse quantitative. Au  terme du cours, les étudiants sont en mesure de lire de manière critique des  travaux empiriques et de conduire leurs propres analyses exploratoires.
 
 | Séance | But | Pratique (Excel) | Exemple |
 |--------|-----|------------------|---------|
